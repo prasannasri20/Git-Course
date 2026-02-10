@@ -1,3 +1,4 @@
 GEt the user data from the user
 process the data 
-user creates avtar
+login and log out
+change 1
