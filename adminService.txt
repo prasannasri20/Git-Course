@@ -1,3 +1,6 @@
-admin gives permission to send messages
+add and remove users 
+change the roles 
+manages te database
+close the oracle database connection
 
-CChange 1 in my database
+Change 1 in my database
